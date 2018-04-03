@@ -45,7 +45,7 @@ def main():
             print("Input your mobile phone number")
             p_number = input()
 
-            print("Input your email address")
+            print("Please enter your email address")
             e_address = input()
 
             save_credentials(create_credentials(f_name,l_name,p_number,e_address))
