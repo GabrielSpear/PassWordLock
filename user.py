@@ -36,10 +36,10 @@ def main():
             print("Sign up")
             print("-"*10)
 
-            print("Input your first name")
+            print("Please enter your first name")
             f_name = input()
 
-            print("Input your last name")
+            print("Please enter your last name")
             l_name = input()
 
             print("Input your mobile phone number")
