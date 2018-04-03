@@ -19,6 +19,7 @@ class Credentials:
         saves stuff
         '''
 
+
         Credentials.contact_list.append(self)
     @classmethod
     def display_credentials(cls):
